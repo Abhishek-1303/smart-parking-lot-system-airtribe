@@ -81,8 +81,3 @@ Automatically assign an available parking spot to an incoming vehicle based on v
 
 ---
 
-## Design Notes
-
-- The allocation strategy can be extended to support advanced rules such as priority parking, electric vehicle zones, or reserved spots.
-- Floor-level availability is maintained to reduce the cost of scanning individual parking spots during allocation.
-
